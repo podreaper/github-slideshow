@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+It has to be done for reputation.
 Use the left arrow to go back!
